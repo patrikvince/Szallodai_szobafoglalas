@@ -1,4 +1,5 @@
-# Szallodai_szobafoglalas
-Szakdolgozat
+# Szállodai szobafoglalási rendszer PHP nyelven MySql adatbáziskezelő rendszerrel
+OKJ zárodolgozat!
 
-Dokumentacio reszben bovebben olvashato
+
+Dokumentáció részben bővebben olvasható
